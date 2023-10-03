@@ -3,7 +3,7 @@ import Image from 'next/image';
 
 const sideImage = () => {
   return (
-    <div className="flex flex-col items-center">
+    <div className="flex flex-col items-center pt-28">
       <div className="text-3xl font-semibold my-7 italic">
         Igniting a Revolution in HR <span className="curve-underline">Innovation</span>
       </div>
