@@ -38,7 +38,7 @@ const Bulb = () => {
       </div>
       <div>
         <h1 className='text-4xl font-bold py-4'>Introduction to getlinked <br /><span className='text-purple-600'>tech Hackathon 1.0</span></h1>
-        <p>Our tech hackathon is a melting pot of visionaries, and its purpose is as <br /> clear as day, to shape the future. Whether you're a coding genius, a  <br />design maverick, or a concept wizard, you'll have the chance to transform your <br /> ideas into reality. Solving real-world problems, pushing the boundaries <br /> of technology, and creating solutions that can change the world, <br /> that's what we're all about!</p>
+        <p>Our tech hackathon is a melting pot of visionaries, and its purpose is as <br /> clear as day, to shape the future. Whether you&apos;re a coding genius, a  <br />design maverick, or a concept wizard, you&apos;ll have the chance to transform your <br /> ideas into reality. Solving real-world problems, pushing the boundaries <br /> of technology, and creating solutions that can change the world, <br /> that&apos;s what we&apos;re all about!</p>
       </div>
     </div>
   );
